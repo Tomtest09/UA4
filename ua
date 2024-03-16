@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/436.0.0.45.111;FBPN/com.facebook.orca;FBLC/fr_GN;FBBV/541554436;FBCR/Orange GN;FBMF/samsung;FBBD/samsung;FBDV/SM-A235F;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.8125,width=1080,height=2207};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 11; Z6356T Build/RP1A.201005.001) [FBAN/Orca-Android;FBAV/428.0.0.35.115;FBPN/com.facebook.orca;FBLC/en_AU;FBBV/520514255;FBCR/Telstra;FBMF/ZTE;FBBD/ZTE;FBDV/Z6356T;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.25,width=720,height=1466};FB_FW/1;]
