@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 11; Z6356T Build/RP1A.201005.001) [FBAN/Orca-Android;FBAV/428.0.0.35.115;FBPN/com.facebook.orca;FBLC/en_AU;FBBV/520514255;FBCR/Telstra;FBMF/ZTE;FBBD/ZTE;FBDV/Z6356T;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.25,width=720,height=1466};FB_FW/1;]
+Mozilla/5.0 (Linux; U; Android 4.1.2; lv-lv; HTC Desire 500 dual sim Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/lv_LV;FBAV/87.0.0.7.184;]
