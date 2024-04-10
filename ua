@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 13; SM-G770F Build/TP1A.220624.014) [FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/bg_BG;FBBV/548243065;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-G770F;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2163};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7.1.2; ASUS_Z01QD Build/N2G48H) [FBAN/FB4A;FBAV/382.0.0.33.111;FBPN/com.facebook.katana;FBLC/zh_CN;FBBV/394408512;FBCR/EE;FBMF/Asus;FBBD/Asus;FBDV/ASUS_Z01QD;FBSV/7.1.2;FBCA/x86:armeabi-v7a;FBDM/{density=1.5,width=800,height=1280};FB_FW/1;FBRV/0;]
